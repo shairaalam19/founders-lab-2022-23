@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.11
+Name: ourapp
+Formal-Name: Our App
+App-ID: com.example.ourapp
+Version: 0.0.1
+Home-page: https://example.com/ourapp
+Download-URL: https://example.com/ourapp
+Author: Shaira Alam
+Author-email: salam13@asu.edu
+Summary: Founders Lab Mobile App
